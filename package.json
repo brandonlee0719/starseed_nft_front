@@ -1,0 +1,35 @@
+{
+  "name": "shopeng-affiliate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@johmun/vue-tags-input": "^2.1.0",
+    "@maticnetwork/walletconnect-provider": "0.0.1-beta.1",
+    "axios": "^0.21.1",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "maticjs": "^1.0.1",
+    "moment": "^2.29.1",
+    "parallax-js": "^3.1.0",
+    "three": "^0.132.2",
+    "vue": "^2.6.11",
+    "vue-carousel": "^0.18.0",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "^3.2.0",
+    "vue-social-sharing": "^3.0.8",
+    "vuex": "^3.6.2",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
